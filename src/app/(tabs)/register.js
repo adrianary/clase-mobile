@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
     },
     boton: {
         title: "aceptar",
-        color: "#841584",
+        color: "#2307d7ff",
         width: 300,
     },
     diseñoBoton: {

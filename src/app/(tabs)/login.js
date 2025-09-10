@@ -5,7 +5,7 @@ import { StatusBar } from "expo-status-bar";
 export default function App() {
     return (
         <View style={styles.container}>
-            <Text style={styles.texto}>Login</Text>
+            <Text style={styles.texto}>LOGIN</Text>
             <TextInput
                 style={styles.input}
                 placeholder="Correo"
@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
 
     boton: {
         title: "sign up",
-        color: "#841584",
+        color: "#2307d7ff",
         width: 300,
     },
     diseñoBoton: {
